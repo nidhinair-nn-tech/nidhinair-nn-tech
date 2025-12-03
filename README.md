@@ -41,7 +41,7 @@ Developed predictive and statistical models to forecast bike demand. Insights im
 ##  Technical Skills
 
 **Data Engineering:**  
-· Informatica · DBT · ETL/ELT Pipelines · Azure Data Factory · Alteryx  
+Informatica · DBT · ETL/ELT Pipelines · Azure Data Factory · Alteryx  
 
 **Databases:**  
 SQL Server · Oracle · MySQL · Snowflake · StarRocks  
