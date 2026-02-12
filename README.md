@@ -10,7 +10,6 @@ I am passionate about transforming raw data into meaningful insights and buildin
 ---
 
 ## Currently Learning  
-- **Big Data Systems (Spark, distributed data processing)**  
 - **Knowledge Graphs (K-Graphs)**  
 - **Generative AI fundamentals for Data Engineering**  
 
