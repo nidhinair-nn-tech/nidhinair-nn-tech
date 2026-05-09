@@ -8,15 +8,15 @@ I work at the intersection of **data engineering, analytics, and AI** — from m
 
 ##  Featured Projects
 
-### [Prismiq — Knowledge Graph + LLM Interview Prep Platform](https://github.com/nidhinair)
+### [Prismiq — Knowledge Graph + LLM Interview Prep Platform](https://github.com/nidhinair-nn-tech/Prismiq)
 Built a RAG pipeline grounding GPT-4o-mini in a Neo4j Knowledge Graph with **2,900+ verified interview questions** across 9 companies and 3 experience levels. Features NLP-based intent detection, Cypher query generation, real-time graph traversal, and full LLM output traceability.  
 `Python` `Neo4j` `GPT-4o-mini` `RAG` `Streamlit` `Knowledge Graphs` `NLP`
 
-### [IMDb Movie Analytics — Data Engineering Pipeline](https://github.com/nidhinair)
+### [IMDb Movie Analytics — Data Engineering Pipeline](https://github.com/nidhinair-nn-tech/IMDB_DATA_ENGINEERING_AND_ANALYSIS)
 End-to-end automated analytics pipeline using Alteryx, Azure Data Factory, and Snowflake. Web scraped geo-location data with BeautifulSoup, built a Location dimension, and delivered Tableau dashboards — improving data processing efficiency by **75%**.  
 `Snowflake` `Azure Data Factory` `Alteryx` `BeautifulSoup` `Tableau`
 
-### [Bike Rental Demand Forecasting](https://github.com/nidhinair)
+### [Bike Rental Demand Forecasting](https://github.com/nidhinair-nn-tech/Bike_Rental_Analysis_RProg)
 Predictive analytics model on Capital Bikeshare ridership data using R statistical modeling and hypothesis testing — enabling data-driven fleet optimization and a **20% improvement** in bike distribution efficiency across Washington D.C.  
 `R` `Statistical Modeling` `Hypothesis Testing` `Predictive Analytics`
 
