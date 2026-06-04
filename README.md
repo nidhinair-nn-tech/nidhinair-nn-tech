@@ -1,6 +1,6 @@
 # Hi, I'm Nidhi Nair
 
-I'm a **Data / Analytics Engineer** with 4+ years of experience designing scalable data architectures, building optimized ETL pipelines, and delivering high-quality data solutions across supply chain, manufacturing, healthcare, and retail domains. Currently pursuing my MS in Information Systems at **Northeastern University**, Boston.
+I'm a **Data / Analytics Engineer** with 3+ years of experience designing scalable data architectures, building optimized ETL pipelines, and delivering high-quality data solutions across supply chain, manufacturing, healthcare, and retail domains. Currently pursuing my MS in Information Systems at **Northeastern University**, Boston.
 
 I work at the intersection of **data engineering, analytics, and AI** — from migrating 500GB+ production databases to grounding LLMs in knowledge graphs. I am passionate about transforming raw data into meaningful insights and building reliable, scalable data platforms.
 
